@@ -1,0 +1,5 @@
+<fruits>
+	<fruit name="lemon" color="yellow"></fruit>
+	<fruit name="orange" color="orange"></fruit>
+	<fruit name ="apple" color="red"></fruit>
+</fruits>
